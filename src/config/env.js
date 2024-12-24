@@ -1,0 +1,1 @@
+export const URL_SHOP = 'https://fake-store-api.mock.beeceptor.com'
